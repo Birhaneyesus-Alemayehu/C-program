@@ -1,2 +1,2 @@
-# C-program
+# C++-program
 function of c++ program
